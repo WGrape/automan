@@ -1,7 +1,7 @@
 package config
 
 import (
-	"automan/internal/model"
+	"automan/pkg/model"
 	"fmt"
 	"github.com/BurntSushi/toml"
 )

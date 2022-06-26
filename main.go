@@ -3,9 +3,9 @@ package main
 import (
 	"automan/api/code"
 	"automan/api/server"
-	"automan/internal/config"
-	"automan/internal/logger"
-	"automan/internal/model"
+	"automan/pkg/config"
+	"automan/pkg/logger"
+	"automan/pkg/model"
 	"fmt"
 	"go.uber.org/zap"
 	"net/http"
